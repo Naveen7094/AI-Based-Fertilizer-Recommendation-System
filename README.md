@@ -1,5 +1,4 @@
-AI-Based Fertilizer Recommendation System
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>AI Fertilizer Recommendation System</title>
